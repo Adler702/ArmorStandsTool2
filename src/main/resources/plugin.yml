@@ -1,0 +1,11 @@
+main: de.torbusentwicklus.armorstandstool2.ArmorStandsToolPlugin
+
+name: ArmorStandsTool2
+version: 1.0-UNTESTED
+author: TorbusEnwicklus
+
+commands:
+  armorstandseditmode:
+    aliases:
+      - asem
+  setname:
